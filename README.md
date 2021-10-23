@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my portfolio site 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+
 
 ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer.
 
 <p align="center">
   <kbd>
-    <img src="(https://user-images.githubusercontent.com/74147463/138558499-e9bdf137-ab10-44b6-9842-6bf772f2c87f.png)"></img>
+    <img src="https://user-images.githubusercontent.com/74147463/138558499-e9bdf137-ab10-44b6-9842-6bf772f2c87f.png"></img>
   </kbd>
 </p>
 
