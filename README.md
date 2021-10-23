@@ -5,11 +5,12 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="(https://user-images.githubusercontent.com/74147463/138558499-e9bdf137-ab10-44b6-9842-6bf772f2c87f.png)"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://vanshajpoonia.vercel.app/)**.
+### To view a live example, **[click here](https://vanshajpoonia.vercel.app/)**.![Screenshot (284)]
+
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
